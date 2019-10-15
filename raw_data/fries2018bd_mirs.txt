@@ -1,0 +1,12 @@
+In brief, the following miRNAs have been reported to be sig-
+nificantly altered in postmortem tissues from BD patients compared to
+controls (described in details in Table 1): up-regulated – miR-17-5p,
+miR-22, miR-29c, miR-29c-3p (“3p” specifies that this miRNA was ex-
+cised from the 3’ arm of the hairpin precursor), miR-32, miR-34a, miR-106-5p, miR-133b, miR-145, miR-149, miR-154*, miR-187, miR-188-5p,
+miR-196b, miR-297, miR-383, miR-449b, miR-490-5p, miR-504, miR-513-5p, miR-579, miR-876-3p, and miR-889; down-regulated - miR-29a, miR-32, miR-34a, miR-34-5p, miR-132, miR-133a, miR-140-3p,
+miR-145-5p, miR-195, miR-212, miR-346, miR-370, miR-454, miR-485-5p, miR-500a-5p, miR-520-3p, miR-573, miR-767-5p, miR-874.
+
+The few comparisons made between BD and controls reported the
+following peripheral alterations (Maffioletti et al., 2016; Rong et al.,
+2011; Weigelt et al., 2013): up-regulated – miR-21-3p, miR-30d-5p,
+miR-140-3p, miR-330-5p, miR-378a-5p, miR-720, miR-1973, miR-3158-3p, and miR-4521; down-regulated - miR-92a, miR-134, miR-146a, miR-212, miR-1915-5p, miR-1972, miR-4440, and miR-4793-3p.

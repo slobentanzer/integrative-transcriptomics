@@ -1,0 +1,1286 @@
+miR‐105	
+  
+Increased	
+  
+miR‐128a	
+   Increased	
+  
+miR‐15a	
+   Increased	
+  
+miR‐15b	
+   Increased	
+  
+miR‐16	
+   Increased	
+  
+miR‐17	
+   Increased	
+  
+miR‐199a*	
+   Increased	
+  
+miR‐20a	
+   Increased	
+  
+miR‐222	
+   Increased	
+  
+miR‐34a	
+   Increased	
+  
+miR‐452*	
+   Increased	
+  
+miR‐486	
+   Increased	
+  
+miR‐487a	
+   Increased	
+  
+Increased	
+  
+miR‐502	
+  
+miR‐SNP	
+  
+miR‐SNP	
+  
+miR‐652	
+   Increased	
+  
+miR‐7	
+   Increased	
+  
+	
+  	
+   	
+  	
+  
+Decreased	
+  expression	
+  
+miR‐106b	
+  
+Decreased	
+  
+miR‐151	
+   Decreased	
+  
+miR‐20b	
+   Decreased	
+  
+miR‐224	
+   Decreased	
+  
+miR‐30a	
+   Decreased	
+  
+miR‐30b	
+   Decreased	
+  
+miR‐30d	
+   Decreased	
+  
+Decreased	
+  
+miR‐30e	
+  
+	
+  
+miR‐SNP	
+  
+miR‐SNP	
+  
+	
+  
+Brain	
+  region/model	
+   References	
+  
+DLPFC	
+  (BA9)	
+  
+DLPFC	
+  (BA46)	
+  
+STG	
+  
+DLPFC	
+  (BA9)	
+  
+STG	
+  
+DLPFC	
+  (BA9)	
+  
+STG	
+  
+DLPFC	
+  (BA9)	
+  
+STG	
+  
+DLPFC	
+  (BA9)	
+  
+STG	
+  
+DLPFC	
+  (BA46)	
+  
+STG	
+  
+DLPFC	
+  (BA46)	
+  
+STG	
+  
+DLPFC	
+  (BA9)	
+  
+STG	
+  
+DLPFC	
+  (BA46)	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+STG	
+  
+DLPFC	
+  (BA46)	
+  
+STG	
+  
+CNV	
+  hot‐spot	
+  
+STG	
+  
+DLPFC	
+  (BA46)	
+  
+STG	
+  
+DLPFC	
+  (BA46)	
+  
+precursor	
+  transcript	
+  
+mature	
+  transcript	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+DLPFC	
+  (BA9)	
+  
+DLPFC	
+  (BA46)	
+   	
+  	
+   Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Kim	
+  et	
+  al.	
+  (2010)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Tabares‐Seisdedos	
+  and	
+  Rubenstein	
+  (2009)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Feng	
+  et	
+  al.	
+  (2009)	
+  
+Feng	
+  et	
+  al.	
+  (2009)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Lai	
+  et	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2009)	
+  
+Kim	
+  et	
+  al.	
+  (2010)	
+  
+Validated	
+  increased	
+  in	
+  DLPFC	
+  (BA9)	
+  Perkins	
+  et	
+  al.	
+  (2007)	
+  
+DLPFC	
+  (BA9)	
+  
+22q11	
+  deletion	
+  model	
+  
+PBMC	
+  
+DLPFC	
+  (BA9)	
+  
+22q11	
+  deletion	
+  model	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+PBMC	
+  
+22q11	
+  deletion	
+  model	
+  
+DLPFC	
+  (BA9)	
+  
+PFC	
+  (BA10)	
+  
+DLPFC	
+  (BA9)	
+  
+PFC	
+  (BA10)	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  (miR‐30e*)	
+  
+precursor	
+  transcript	
+  
+mature	
+  transcript	
+  
+	
+   Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Stark	
+  et	
+  al.	
+  (2008)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Moreau	
+  et	
+  al.	
+  (2011)	
+  
+Stark	
+  et	
+  al.	
+  (2008)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Stark	
+  et	
+  al.	
+  (2008)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Mellios	
+  et	
+  al.	
+  (2010)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Mellios	
+  et	
+  al.	
+  (2010)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Mellios	
+  et	
+  al.	
+  (2010)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Xu	
+  et	
+  al.	
+  (2010)	
+  
+Xu	
+  et	
+  al.	
+  (2010)	
+  
+	
+  Beveridge	
+  and	
+  Cairns	
+  (2011)	
+  miRNA	
+  dysregulation	
+  in	
+  schizophrenia	
+  
+miR‐383	
+   Decreased	
+  
+miR‐432	
+   Decreased	
+  
+miR‐505	
+  
+  
+  let‐7d	
+  
+	
+  
+miR‐107	
+  
+	
+  
+	
+  
+miR‐134	
+  
+	
+  
+	
+  
+miR‐138	
+  
+	
+  
+miR‐148b	
+  
+	
+  
+	
+  
+miR‐150	
+  
+	
+  
+	
+  
+miR‐152	
+  
+	
+  
+	
+  
+miR‐154	
+  
+	
+  
+miR‐181a	
+  
+	
+  
+miR‐181b	
+  
+	
+  
+	
+  
+miR‐193b	
+  
+	
+  
+miR‐195	
+  
+	
+  
+	
+  
+miR‐212	
+  
+	
+  
+	
+  
+miR‐24	
+  
+	
+  
+	
+  
+miR‐25	
+  
+	
+  
+miR‐26b	
+  
+	
+  
+	
+  
+miR‐27b	
+  
+	
+  
+	
+  
+miR‐28	
+  
+	
+  
+miR‐29c	
+  
+	
+  
+miR‐31	
+  
+	
+  
+miR‐328	
+  
+	
+  
+	
+  
+miR‐338	
+  
+	
+  
+	
+  
+	
+  
+Direction	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+N/A	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+Increased	
+  
+Increased	
+  
+Decreased	
+  
+	
+  
+Brain	
+  region/model	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+DLPFC	
+  (BA9)	
+  
+STG	
+  (BA22)	
+  
+PBMC	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+22q11	
+  hemizygous	
+  deletion	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA9)	
+  
+DLPFC	
+  (BA46)	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA9)	
+  
+Frontal	
+  cortex	
+  (BA10)	
+  
+DLPFC	
+  (BA46)	
+  
+DLPFC	
+  (BA9)	
+  
+22q11	
+  hemizygous	
+  deletion	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA9)	
+  
+miR‐SNP	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA9)	
+  
+DLPFC	
+  (BA9)	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+PBMC	
+  
+DLPFC	
+  (BA9)	
+  
+DLPFC	
+  (BA9)	
+  
+DLPFC	
+  (BA9)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA46)	
+  
+PBMC	
+  
+STG	
+  (BA22)	
+  
+DLPFC	
+  (BA9)	
+  
+DLPFC	
+  (BA9)	
+  
+	
+  
+References	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Stark	
+  et	
+  al.	
+  (2008)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Moreau	
+  et	
+  al.	
+  (2011)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Moreau	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Moreau	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Mellios	
+  et	
+  al.	
+  (2009)	
+  
+Kim	
+  et	
+  al.	
+  (2010)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Stark	
+  et	
+  al.	
+  (2008)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Xu	
+  et	
+  al.	
+  (2010)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Moreau	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Perkins	
+  et	
+  al.	
+  (2007)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Santarelli	
+  et	
+  al.	
+  (2011)	
+  
+Gardiner	
+  at	
+  al.	
+  (2011)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Beveridge	
+  et	
+  al.	
+  (2010)	
+  
+Moreau	
+  et	
+  al.	
+  (2011)	
+  
+	
+  Beveridge	
+  and	
+  Cairns	
+  (2011)	
+  miRNA	
+  dysregulation	
+  in	
+  schizophrenia	
+  
+miR‐339	
+  
+	
+  
+miR‐383	
+  
+	
+  
+miR‐409‐5p	
+  
+	
+  
+miR‐409‐3p	
+  
+	
+  
+	
+  
+miR‐425	
+  
+	
+  
+miR‐433	
+  
+	
+  
+miR‐486	
+  
+	
+  
+miR‐494	
+  
+	
+  
+miR‐505	
+  
+	
+  
+miR‐512‐3p	
+  
+	
+  
+miR‐532	
+  
+	
+  
+miR‐544	
+  
+	
+  
+miR‐9*	
+  
