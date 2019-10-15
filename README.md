@@ -23,3 +23,5 @@ https://doi.org/10.1016/j.celrep.2019.09.017
 + working_data is a directory for intermediate data
 + GO.R is a source script for topGO analysis
 + supplement_to_xlsx.R was used to create supplementary CSVs (in spite of the name)
+##### Disclaimer
+The database is still in prototype stage and not ready for release. It is not included in this repository.
