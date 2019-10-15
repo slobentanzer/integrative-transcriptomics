@@ -1,5 +1,5 @@
-### Integrative-transcriptomics
-This repository contains data and code used in Lobentanzer et al. 2019, "Integrative transcriptomics reveals sexually dimorphic microRNA control of the cholinergic/neurokine interface in schizophrenia and bipolar disorder".
+# Integrative-transcriptomics
+This repository contains data and code used in Lobentanzer et al. 2019, "Integrative transcriptomics reveals sexually dimorphic microRNA control of the cholinergic/neurokine interface in schizophrenia and bipolar disorder", published in Cell Reports on October 15, 2019.
 ##### In Brief
 Lobentanzer et al. show how bioinformatically supported high-throughput techniques such as short RNA sequencing can bridge the gap between traditional molecular interaction studies and purely bioinformatic prediction paradigms in an example focused on disentangling the sexual dimorphism in microRNA regulation of the cholinergic/ neurokine interface in mental disorders.
 ##### Highlights
