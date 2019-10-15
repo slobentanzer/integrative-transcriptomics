@@ -24,4 +24,4 @@ https://doi.org/10.1016/j.celrep.2019.09.017
 + GO.R is a source script for topGO analysis
 + supplement_to_xlsx.R was used to create supplementary CSVs (in spite of the name)
 ##### Disclaimer
-The database (*miRNet*) is still in prototype stage and not ready for release. It is not included in this repository.
+The database *(miRNet)* is still in prototype stage and not ready for release. It is not included in this repository, although its creation is possible using the code in "00_".
