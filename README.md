@@ -14,7 +14,7 @@ https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31194-5
 
 https://doi.org/10.1016/j.celrep.2019.09.017
 ##### Organisation
-+ 00_ contains Java code used to create and maintain the transcriptional interaction database, *miRNet*
++ 00_ contains Java code used to create and maintain the transcriptional interaction database, *miRNeo*
 + 10_ contains R code used in the unbiased meta-analysis of patient brain samples
 + 20_ contains R code used in the single-cell-sequencing-based analysis 
 + 30_ contains R code and bash scripts used in the analysis of small RNA sequencing of LA-N-2 and LA-N-5
@@ -26,4 +26,4 @@ https://doi.org/10.1016/j.celrep.2019.09.017
 + GO.R is a source script for topGO analysis
 + supplement_to_xlsx.R was used to create supplementary CSVs (in spite of the name)
 ##### Disclaimer
-The database *(miRNet)* is still in prototype stage and not ready for release. It is not included in this repository, although its creation is possible using the code in "00_".
+The database *(miRNeo)* is still in prototype stage and not ready for release. It is not included in this repository, although its creation is possible using the code in "00_".
